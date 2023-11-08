@@ -1,0 +1,8 @@
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: #FC830A;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  font-size:.80rem;
+}
